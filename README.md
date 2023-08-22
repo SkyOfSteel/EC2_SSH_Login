@@ -16,5 +16,16 @@ PuTTY is an SSH client used to connect to remote servers on Windows 8 and earlie
 
 5. Enter the name of the session and save it.
 
-![Illustration](https://github.com/SkyOfSteel/EC2_SSH_Login/blob/main/PuTTY%Illustration.png "Illustration of the PuTTY window")
+![Illustration](https://github.com/SkyOfSteel/EC2_SSH_Login/blob/main/PuTTY%20Illustration.png "Illustration of the PuTTY window")
 
+6. On the left panel, click **+** next to the tab **SSH**.
+
+7. Click the tab **Auth** to open the options for controlling SSH authentication.
+
+8. In the right pane, click **Browse** and select the generated .PPK file.
+
+9. After opening the .PPK file, return to the tab **Session** and save it.
+
+10. Click **Open**. The remote terminal will appear.
+
+![Illustration](https://github.com/SkyOfSteel/EC2_SSH_Login/blob/main/PuTTY%20Illustration%202.png "Illustration of the terminal window")
